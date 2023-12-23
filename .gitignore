@@ -1,5 +1,5 @@
 node_modules
-global_variables.dart
+lib/constants/global_variables.dart
 # Miscellaneous
 *.class
 *.log
